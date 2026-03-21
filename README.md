@@ -1,6 +1,6 @@
 # SharpEducation
 
-Educational notebooks for the [Sharp Research YouTube channel](https://www.youtube.com/@SharpResearch) — covering technical analysis, regression, logistic regression, machine learning, and economic data strategies, all in Python.
+Educational notebooks for the [Sharp Research YouTube channel](https://www.youtube.com/@sharp_research) — covering technical analysis, regression, logistic regression, machine learning, and economic data strategies, all in Python.
 
 ## Getting Started
 
